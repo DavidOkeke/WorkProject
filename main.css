@@ -47,10 +47,10 @@ div div div div div ul li{
     height: 70px;
     text-align: center;
     display: inline-block;
-    border-bottom-color: red;
     font-style: italic;
     font-size: 15px;
     text-decoration: none;
+    border-bottom: 6px red solid;
 }
 
 div select~div{
